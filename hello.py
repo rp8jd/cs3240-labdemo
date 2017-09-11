@@ -1,6 +1,3 @@
 #Rhea Prahlad, rp8jd
-
-def greeting(msg):
-    print(msg)
-
+from helper import greeting
 greeting("hello")
